@@ -1,27 +1,6 @@
 # AEE. Bitácora III. Conexiones Empresariales Taller Técnico: Operación Escudo 
 
 # 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
 # Nombre: Jesús Cabeza Carballar
 
 Docente: Willman Acosta 
@@ -38,7 +17,7 @@ Fecha de entrega: 17/04/2026
 
   ## \-Códigos “Facility” y “Severity”
 
-		\-Facility: Identifica el subsistema que genera el mensaje.
+-Facility: Identifica el subsistema que genera el mensaje.
 
 \-Severity: Define el nivel de urgencia del mensaje , es un código de un único dígito entre 0 y 7, que indica la gravedad.
 
